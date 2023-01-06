@@ -67,7 +67,7 @@ custom_component:
         ...
 ```
 
-### Sensor
+### Sensors
 
 Currently the code is hardcoded to read the following register values:
 
