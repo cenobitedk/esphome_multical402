@@ -12,6 +12,8 @@ esphome:
 
 ota:
 
+api:
+
 wifi:
   ssid: INSERT_WIFI_SSID
   password: INSERT_WIFI_PASSWORD
@@ -57,14 +59,13 @@ sensor:
     accuracy_decimals: 3
     state_class: "total_increasing"
     device_class: "energy"
-    force_update: true
 
   - name: "Multical Volume"
     platform: template
     id: m_volume
     unit_of_measurement: m3
     accuracy_decimals: 2
-    state_class: "measurement"
+    state_class: "total_increasing"
 
   - name: "Multical Temperature In"
     platform: template
