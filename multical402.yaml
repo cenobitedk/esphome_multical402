@@ -65,7 +65,7 @@ sensor:
     id: m_volume
     unit_of_measurement: m3
     accuracy_decimals: 2
-    state_class: "total_increasing"
+    state_class: "measurement"
 
   - name: "Multical Temperature In"
     platform: template
