@@ -112,7 +112,7 @@ In case no values are being read and the log shows something like this:
 Check the following:
 
 - Check the IR LED on the optical reader; use a mobile phone and use the camera, the IR LED should blink every 10 seconds (or other if the update interval has been changed). If this isn't the case, check the UART pins and the wiring.
-- Press the "play" button on the meter. The meter will turn off the optical port after 30min of inactivity on either buttons and optical port.
+- Press the "play" button on the meter to enable the IR Port. The meter will turn off the optical port after 30min of inactivity on either buttons and optical port.
 - Make sure the optical reader is positioned the right way; turn it 180° to flip the position of the IR sensor.
 
 ## Sources & Inspiration
