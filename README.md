@@ -17,7 +17,9 @@ These are typically equipped with an USB port and are rather expensive, but for 
 Options:
 
 - Prebuilt: https://www.ebay.com/usr/arelektronik – this is what I got
-- DIY: https://atomstar.tweakblogs.net/blog/19110/reading-out-kamstrup-multical-402-403-with-home-built-optical-head
+- DIY: [https://wiki.hal9k.dk/projects/kamstrup](https://wiki.hal9k.dk/projects/kamstrup) - in Danish
+
+However, I don't think it's feasible making your own. The one from ebay is really cheap (18 EUR), but if you have a 3D printer already you can get the pcb and magnet for only 11 EUR.
 
 ## Configuration
 
