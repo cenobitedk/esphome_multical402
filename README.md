@@ -16,10 +16,14 @@ These are typically equipped with an USB port and are rather expensive, but for 
 
 Options:
 
-- Prebuilt: https://www.ebay.com/usr/arelektronik – this is what I got
-- DIY: [https://wiki.hal9k.dk/projects/kamstrup](https://wiki.hal9k.dk/projects/kamstrup) - in Danish
+- Prebuilt:
+  - https://www.ebay.com/usr/o_electronics_o
+  - https://www.ebay.de/usr/hicbelm-8
+  - https://www.ebay.de/usr/mktw1996
+- DIY:
+  - [https://wiki.hal9k.dk/projects/kamstrup](https://wiki.hal9k.dk/projects/kamstrup) - in Danish
 
-However, I don't think it's feasible making your own. The one from ebay is really cheap (18 EUR), but if you have a 3D printer already you can get the pcb and magnet for only 11 EUR.
+However, I don't think it's feasible making your own. The ones from ebay are really cheap (~18 EUR), but if you have a 3D printer already you can get the pcb and magnet for less.
 
 ## Configuration
 
